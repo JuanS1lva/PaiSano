@@ -1979,7 +1979,7 @@ ol {
   position: relative;
   padding: 180px 0 120px 0;
   /* background: #063f3b; */
-  background-image: url("../images/fondos/VERDE.png");
+  background-image: url("../images/fondos/VERDE.jpg");
   background-size: cover;
 }
 .hero-area2 {
@@ -2219,7 +2219,7 @@ ol {
 ========================================*/
 .features {
   /* background-color: #f9f9f9; */
-  background-image: url("../images/fondos/OO.png");
+  background-image: url("../images/fondos/VERDE_OSCURO.jpg");
   background-size: cover;
 }
 
