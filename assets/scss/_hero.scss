@@ -49,7 +49,7 @@
 
         p {
             margin-top: 30px;
-            font-size: 15px;
+            font-size: 18px;
             color: $white;
         }
 
@@ -204,7 +204,7 @@
 
             p {
                 margin-top: 15px;
-                font-size: 14px;
+                font-size: 18px;
                 line-height: 22px;
             }
 
@@ -221,4 +221,9 @@
             }
         }
     }
+}
+
+.fondo-verde {
+    background-image: url("../images/fondos/VERDE.jpg") !important; 
+    background-size: cover !important;
 }

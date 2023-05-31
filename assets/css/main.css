@@ -1929,7 +1929,7 @@ ol {
 }
 .hero-area .hero-content p {
   margin-top: 30px;
-  font-size: 15px;
+  font-size: 18px;
   color: #fff;
 }
 .hero-area .hero-content .button {
@@ -2044,7 +2044,7 @@ ol {
   }
   .hero-area .hero-content p {
     margin-top: 15px;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 22px;
   }
   .hero-area .hero-content .button .btn {
@@ -2055,6 +2055,11 @@ ol {
   .hero-area .hero-content .button .btn:last-child {
     margin: 0;
   }
+}
+
+.fondo-verde {
+  background-image: url("../images/fondos/VERDE.jpg") !important;
+  background-size: cover !important;
 }
 
 /*======================================
@@ -2712,6 +2717,7 @@ ol {
 
 .accordion-body {
   border-radius: 0 0 8px 8px;
+  font-size: 20px;
   padding: 40px;
   background-color: #f9f9f9;
   border-left: 1px solid #eee;
@@ -4216,7 +4222,7 @@ blockquote span {
   color: #063f3b;
 }
 .footer .single-footer h3 {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
   display: block;
   margin-bottom: 35px;
