@@ -49,7 +49,7 @@
     }
 
     .title {
-        font-size: 15px;
+        font-size: 18px;
         position: relative;
         font-weight: 600;
         float: left;
@@ -57,11 +57,11 @@
         line-height: 25px;
 
         @media #{$md} {
-            font-size: 14px;
+            font-size: 18px;
         }
 
         @media #{$xs} {
-            font-size: 14px;
+            font-size: 18px;
         }
 
         .serial {
@@ -140,6 +140,7 @@
     }
 
     p {
+        font-size: 18px;
         margin: 0;
         margin-bottom: 20px;
         color: #777;

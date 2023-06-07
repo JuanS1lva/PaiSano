@@ -1944,7 +1944,7 @@ ol {
   font-size: 17px;
 }
 .hero-area .hero-content .button .btn:hover {
-  background-color: #081828;
+  background-color: #e7661a;
   color: #fff;
 }
 .hero-area .hero-content .button .btn.btn-alt {
@@ -2648,7 +2648,7 @@ ol {
   }
 }
 .accordion-item .accordion-button .title {
-  font-size: 15px;
+  font-size: 18px;
   position: relative;
   font-weight: 600;
   float: left;
@@ -2657,12 +2657,12 @@ ol {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .accordion-item .accordion-button .title {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 @media (max-width: 767px) {
   .accordion-item .accordion-button .title {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 .accordion-item .accordion-button .title .serial {
@@ -2735,6 +2735,7 @@ ol {
   }
 }
 .accordion-body p {
+  font-size: 18px;
   margin: 0;
   margin-bottom: 20px;
   color: #777;
@@ -3602,7 +3603,7 @@ blockquote span {
   border-radius: 0 0 10px 10px;
 }
 .team .single-team .text h3 a {
-  font-size: 17px;
+  font-size: 24px;
   font-weight: 600;
   color: #081828;
 }
